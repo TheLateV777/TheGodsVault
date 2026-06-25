@@ -11,17 +11,14 @@
             "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vishnu's Notes/Acids, Bases and Salts.canvas",
-                "viewState": {
-                  "x": -3211.0218655787894,
-                  "y": 110.912240043625,
-                  "zoom": 0.6666666666666667
-                }
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Acids, Bases and Salts"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -196,6 +193,11 @@
   },
   "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Readme.md",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Nationalism in Europe.canvas",
     "PDFs/Nationalism in Europe.pdf",
@@ -211,7 +213,6 @@
     "Vishnu's Notes/Power Sharing.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Chemical Reactions and Equations.canvas",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Hello Shodhan.md",
     "Chemical Reactions and Equations.canvas",
     "Acids, Bases and Salts.canvas",
