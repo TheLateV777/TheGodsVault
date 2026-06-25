@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Acids, Bases and Salts.canvas",
+                "file": "SB's Notes/Chemical Reactions.canvas",
                 "viewState": {
-                  "x": -2980.4167399023636,
-                  "y": 156.68454283379802,
-                  "zoom": -1.2109801949150591
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Acids, Bases and Salts"
+              "title": "Chemical Reactions"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "f26ad016586051fe",
   "lastOpenFiles": [
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
+    "SB's Notes/Chemical Reactions.canvas",
     "SB's Notes",
     "conflict-files-obsidian-git.md",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "Readme.md",
     "Untitled.base",
