@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44cbd46cd0228830",
+  "active": "212c3d7008abc069",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Readme.md",
