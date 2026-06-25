@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "abae0debc02c0034",
+        "id": "5fbd904fd4ae14a1",
         "type": "tabs",
         "children": [
           {
-            "id": "aa37a71f6d49a7d0",
+            "id": "b6bcfac01850e6e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
