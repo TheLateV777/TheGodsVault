@@ -8,3 +8,9 @@
 - Please do not resolve conflicts stupidly
 - Please contribute in your own way
 - No griefing other's notes and shitposting
+
+# Please Download These Libraries For Smooth Flow in Everyone's Work
+- Git
+### To be added later
+- Excalidraw
+- Tasks
