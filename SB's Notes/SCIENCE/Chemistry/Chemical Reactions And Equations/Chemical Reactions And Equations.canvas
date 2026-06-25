@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"bd70f3ff6520d0c8","type":"text","text":"More Oxidation Reactions","x":-1250,"y":-560,"width":250,"height":50,"color":"1"},
-		{"id":"5ac5b592963cb663","type":"file","file":"Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md","x":-1612,"y":-400,"width":292,"height":140,"color":"2"},
-		{"id":"c1ab0ce54f648c5a","type":"file","file":"Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md","x":-1054,"y":-400,"width":298,"height":140,"color":"2"},
-		{"id":"d67b1909a0e559f1","type":"file","file":"Chemistry/Chemical Reactions And Equations/Notes/Balancing Equation.md","x":1725,"y":844,"width":285,"height":228},
+		{"id":"5ac5b592963cb663","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md","x":-1612,"y":-400,"width":292,"height":140,"color":"2"},
+		{"id":"c1ab0ce54f648c5a","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md","x":-1054,"y":-400,"width":298,"height":140,"color":"2"},
+		{"id":"d67b1909a0e559f1","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Balancing Equation.md","x":1725,"y":844,"width":285,"height":228},
 		{"id":"25451f2200a5b134","type":"text","text":"Balanced Equation","x":1775,"y":684,"width":185,"height":60,"color":"1"},
-		{"id":"655411f0b75c6392","type":"file","file":"Chemistry/Chemical Reactions And Equations/Notes/Chemical Equations.md","x":1775,"y":315,"width":300,"height":240,"color":"2"},
-		{"id":"f36033126908c336","type":"file","file":"Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md","x":1360,"y":324,"width":291,"height":240},
+		{"id":"655411f0b75c6392","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Chemical Equations.md","x":1775,"y":315,"width":300,"height":240,"color":"2"},
+		{"id":"f36033126908c336","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md","x":1360,"y":324,"width":291,"height":240},
 		{"id":"419237849c015e06","type":"text","text":"REPRESNTATION OF chemical reaction","x":1560,"y":54,"width":250,"height":60,"color":"1"},
 		{"id":"c157e37ccee59014","type":"text","text":"Chemical Reactions And Equations","x":-101,"y":40,"width":295,"height":60,"color":"6"},
 		{"id":"45fea83d3665926c","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Double Displacement Reaction.md","x":-1125,"y":424,"width":342,"height":150,"color":"2"},
@@ -35,7 +35,7 @@
 		{"id":"665f687c940812e8","type":"text","text":"Formation Of Precipitate","x":720,"y":484,"width":220,"height":60,"color":"2"},
 		{"id":"a9d539a7b99de5eb","type":"text","text":"Skeletal Equation","x":1525,"y":684,"width":200,"height":60,"color":"1"},
 		{"id":"eab769ad1ab4f5a7","type":"text","text":"Reactivity Series","x":1120,"y":624,"width":168,"height":60,"color":"1"},
-		{"id":"039d6d3abf1d32aa","type":"file","file":"Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md","x":924,"y":758,"width":560,"height":400,"color":"2"},
+		{"id":"039d6d3abf1d32aa","type":"file","file":"SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md","x":924,"y":758,"width":560,"height":400,"color":"2"},
 		{"id":"0465d621bc8468d1","type":"text","text":"Thermal Decompostion","x":-2073,"y":680,"width":216,"height":60,"color":"5"}
 	],
 	"edges":[
