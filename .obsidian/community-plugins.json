@@ -1,6 +1,8 @@
 [
   "obsidian-git",
   "highlightr-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin"
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin"
 ]
