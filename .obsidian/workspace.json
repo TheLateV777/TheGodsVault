@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44cbd46cd0228830",
+            "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Chemical Reactions and Equations.canvas",
+                "file": "Vishnu's Notes/Acids, Bases and Salts.canvas",
                 "viewState": {
-                  "x": 523.2054167988173,
-                  "y": 633.3559806515073,
-                  "zoom": -0.5649247474846115
+                  "x": -2980.4167399023636,
+                  "y": 156.68454283379802,
+                  "zoom": -1.2109801949150591
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Chemical Reactions and Equations"
+              "title": "Acids, Bases and Salts"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -157,17 +157,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           },
           {
-            "id": "212c3d7008abc069",
+            "id": "6286c0aa711d14fb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,17 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "212c3d7008abc069",
+  "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
-    "Vishnu's Notes/Chemical Reactions and Equations.canvas",
+    "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "conflict-files-obsidian-git.md",
-    "SB's Notes/Biology/Life Processes",
-    "SB's Notes/Biology",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Readme.md",
-    "SB's Notes",
     "Untitled.base",
     "Untitled 1.base",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Vishnu's Notes/Nationalism in Europe.canvas",
     "PDFs/Nationalism in Europe.pdf",
     "PDFs/Federalism.pdf",
@@ -216,13 +212,15 @@
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png",
-    "Vishnu's Notes/Sectors of Indian Economy.canvas",
+    "Media",
     "Vishnu's Notes/Power Sharing.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
+    "Vishnu's Notes/Chemical Reactions and Equations.canvas",
     "Hello Shodhan.md",
     "Chemical Reactions and Equations.canvas",
     "Acids, Bases and Salts.canvas",
     "Sectors of Indian Economy.canvas",
+    "Vishnu's Notes",
     "hi.md"
   ]
 }
