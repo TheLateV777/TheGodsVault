@@ -1,0 +1,5 @@
+- here are some units of the Indian Union which enjoy very little power. 
+- These are areas which are too small to become an independent State but which could not be merged with any of the existing States.
+- These territories do not have the powers of a State.
+- The Central Government has special powers in running these areas
+- These areas, like Chandigarh, or Lakshadweep or the capital city of Delhi, are called Union Territories.
