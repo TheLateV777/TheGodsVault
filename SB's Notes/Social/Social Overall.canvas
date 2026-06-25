@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"57712cd9e7f4e993","type":"file","file":"SB's Notes/Social/Politics/Federalism/Federalism.canvas","x":-200,"y":-40,"width":320,"height":360},
+		{"id":"cf2aaaaadd07c74d","x":480,"y":-40,"width":320,"height":360,"type":"file","file":"SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas"},
+		{"id":"dfde2a2b7dd7f631","x":-200,"y":400,"width":320,"height":360,"type":"file","file":"PDFs/Federalism.pdf"},
+		{"id":"e1c16ea936bc68de","x":200,"y":-280,"width":250,"height":60,"type":"text","text":"POLITICS"}
+	],
+	"edges":[
+		{"id":"6d5abf3c7612f7c8","fromNode":"e1c16ea936bc68de","fromSide":"bottom","toNode":"57712cd9e7f4e993","toSide":"top"},
+		{"id":"81beb385f84581ac","fromNode":"e1c16ea936bc68de","fromSide":"bottom","toNode":"cf2aaaaadd07c74d","toSide":"top"},
+		{"id":"79754bcb6d670f8a","fromNode":"57712cd9e7f4e993","fromSide":"bottom","toNode":"dfde2a2b7dd7f631","toSide":"top"}
+	]
+}
