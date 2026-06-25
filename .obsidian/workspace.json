@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Nationalism in Europe.canvas",
+                "file": "Vishnu's Notes/Acids, Bases and Salts.canvas",
                 "viewState": {
-                  "x": 10.103706222346489,
-                  "y": 7329.696454638843,
-                  "zoom": -1.168476887574516
+                  "x": -3211.0218655787894,
+                  "y": 110.912240043625,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Nationalism in Europe"
+              "title": "Acids, Bases and Salts"
             }
           }
         ]
@@ -194,47 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "b10322ae639535e4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "913290c5ddec660a",
-        "type": "window",
-        "children": [
-          {
-            "id": "c3a5386dd60f98c0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "040cf32bb5b71dbb",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFs/Nationalism in Europe.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Nationalism in Europe"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1951,
-        "y": 572,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
-    "PDFs/Nationalism in Europe.pdf",
+    "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Nationalism in Europe.canvas",
+    "PDFs/Nationalism in Europe.pdf",
     "PDFs/Federalism.pdf",
     "PDFs/Development.pdf",
     "PDFs/Resource and Development.pdf",
@@ -244,7 +208,6 @@
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png",
     "Media",
-    "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Power Sharing.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Chemical Reactions and Equations.canvas",
