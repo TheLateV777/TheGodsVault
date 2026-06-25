@@ -4,45 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "1269720fae5073f6",
+        "id": "bb58b645a207560d",
         "type": "tabs",
         "children": [
           {
-            "id": "f43b4941efa901ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
-                "viewState": {
-                  "x": -2217.963771788602,
-                  "y": 508.2372808207506,
-                  "zoom": -0.333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Chemical Reactions And Equations"
-            }
-          },
-          {
-            "id": "6c8809a14db97600",
+            "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
                 "viewState": {
-                  "x": 24.12853413935524,
-                  "y": -156.44881085995945,
-                  "zoom": -0.7489382358322816
+                  "x": -2602.614117232477,
+                  "y": 367.75987005443847,
+                  "zoom": -1.5693306809926306
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Federalism"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -198,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,24 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c8809a14db97600",
+  "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-    "conflict-files-obsidian-git.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
+    "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Ethnic Compostion..md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
-    "SB's Notes/Social/Politics/Power Sharing/Notes",
-    "SB's Notes/Social/Politics/Power Sharing",
-    "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
-    "SB's Notes/Social/Politics/Federalism/What is it.md",
+    "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
+    "Readme.md",
     "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
+    "SB's Notes/Social/Politics/Federalism/What is it.md",
+    "SB's Notes/Social/Politics/Power Sharing/Notes",
+    "SB's Notes/Social/Politics/Power Sharing",
     "SB's Notes/Social/Politics/Federalism",
     "SB's Notes/Social/Politics",
     "SB's Notes/Social",
@@ -237,34 +218,33 @@
     "Chemistry/Chemical Reactions And Equations/Notes",
     "Chemistry/Chemical Reactions And Equations",
     "Chemistry",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
+    "conflict-files-obsidian-git.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Exothermic Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Endothermic.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Double Displacement Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Displacement Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Decomposition Reaction.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Combination Reaction.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Chemical Equations.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Balancing Equation.md",
-    "SB's Notes/SST/HISTORY/The Rise of Nationalism in Europe/The French Revolutions And The Idea Of The Nation - Civil Code of 1804.md",
-    "SB's Notes/SST/HISTORY/The Rise of Nationalism in Europe/Introduction.md",
-    "SB's Notes/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
+    "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes.canvas",
-    "SB's Notes/SCIENCE/Biology/Life Processes/notes/Life Process And Metabolic Activities.md",
-    "SB's Notes/SST/Politics/Power Sharing/Notes/Ethnic Compostion..md",
-    "SB's Notes/SST/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
-    "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium.md",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/SST/Politics/Federalism/What is it.md",
     "SB's Notes/SST/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes",
-    "SB's Notes/SST/Politics/Federalism/What Makes India a federal country.md",
-    "SB's Notes/SST/Politics/Federalism/States Enjoying Special Power..md",
-    "SB's Notes/SST/Politics/Federalism/Linguistic States.md",
     "SB's Notes/SST/Politics/Federalism/Federalism.canvas",
+    "SB's Notes/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
     "SB's Notes/SST/Politics/Power Sharing",
-    "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
-    "SB's Notes/SST/SST/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/SST/SST/Politics/Power Sharing/Power Sharing.canvas",
-    "SB's Notes/SST/SST/Politics/Federalism/Federalism.canvas",
-    "SB's Notes/SST/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
+    "SB's Notes/Chemical Reactions.canvas",
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png"
