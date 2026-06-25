@@ -11,20 +11,32 @@
             "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Vishnu's Notes/Acids, Bases and Salts.canvas",
-                "viewState": {
-                  "x": -656.5342814985465,
-                  "y": 466.1438765619023,
-                  "zoom": -3.634815762460425
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Acids, Bases and Salts"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "3bb9f582475168f5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Readme.md",
+                "bFile": "Readme.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Readme  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -157,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vishnu's Notes/Acids, Bases and Salts.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acids, Bases and Salts"
+              "title": "Outline"
             }
           },
           {
@@ -181,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f26ad016586051fe",
+  "active": "3bb9f582475168f5",
   "lastOpenFiles": [
+    "Readme.md",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "SB's Notes",
     "Untitled.base",
     "Untitled 1.base",
@@ -215,7 +228,6 @@
     "Vishnu's Notes/Power Sharing.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Chemical Reactions and Equations.canvas",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Hello Shodhan.md",
     "Chemical Reactions and Equations.canvas",
     "Acids, Bases and Salts.canvas",
