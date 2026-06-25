@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Acids, Bases and Salts"
             }
+          },
+          {
+            "id": "8d6a7277928c11e1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SB's Notes/Chemical Reactions.canvas",
+                "viewState": {
+                  "x": -22.01522811682072,
+                  "y": 23.86538155410896,
+                  "zoom": 0.6666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Chemical Reactions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01a106ae3986c7ee",
+  "active": "8d6a7277928c11e1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "SB's Notes/Chemical Reactions.canvas",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
+    "SB's Notes",
     "Vishnu's Notes/Chemical Reactions and Equations.canvas",
     "Readme.md",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
-    "conflict-files-obsidian-git.md",
     "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "Untitled.base",
     "Untitled 1.base",
@@ -219,7 +239,6 @@
     "Hello Shodhan.md",
     "Chemical Reactions and Equations.canvas",
     "Acids, Bases and Salts.canvas",
-    "Sectors of Indian Economy.canvas",
     "Vishnu's Notes",
     "hi.md"
   ]
