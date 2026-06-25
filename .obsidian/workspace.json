@@ -11,10 +11,14 @@
             "id": "cf7a506f89c2ed36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -188,8 +192,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f26ad016586051fe",
+  "active": "6286c0aa711d14fb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Vishnu's Notes/Social Science/Civics",
     "Vishnu's Notes/Social Science/History",
     "Vishnu's Notes/Social Science/Geography",
@@ -200,7 +205,6 @@
     "Vishnu's Notes/Social Science",
     "Vishnu's Notes/Science",
     "Goals.md",
-    "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
     "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
@@ -220,7 +224,6 @@
     "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
     "SB's Notes/Social/Politics/Federalism/What is it.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes",
-    "SB's Notes/Social/Politics/Power Sharing",
     "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
