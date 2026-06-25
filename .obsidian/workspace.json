@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vishnu's Notes/Chemical Reactions and Equations.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Chemical Reactions and Equations"
             }
           },
           {
@@ -195,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "212c3d7008abc069",
+  "active": "f26ad016586051fe",
   "lastOpenFiles": [
-    "Vishnu's Notes/Chemical Reactions and Equations.canvas",
+    "SB's Notes",
     "conflict-files-obsidian-git.md",
+    "Vishnu's Notes/Chemical Reactions and Equations.canvas",
     "SB's Notes/Biology/Life Processes",
     "SB's Notes/Biology",
     "Vishnu's Notes/Acids, Bases and Salts.canvas",
