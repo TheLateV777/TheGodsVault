@@ -11,10 +11,17 @@
             "id": "44cbd46cd0228830",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Vishnu's Notes/Chemical Reactions and Equations.canvas",
+                "viewState": {
+                  "x": 523.2054167988173,
+                  "y": 633.3559806515073,
+                  "zoom": -0.5649247474846115
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Chemical Reactions and Equations"
             }
           }
         ]
@@ -150,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vishnu's Notes/Chemical Reactions and Equations.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Chemical Reactions and Equations"
             }
           },
           {
@@ -174,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +197,11 @@
   },
   "active": "212c3d7008abc069",
   "lastOpenFiles": [
+    "SB's Notes/Biology/Life Processes",
+    "SB's Notes/Biology",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "conflict-files-obsidian-git.md",
     "Readme.md",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "SB's Notes",
     "Untitled.base",
     "Untitled 1.base",
@@ -215,7 +224,6 @@
     "Chemical Reactions and Equations.canvas",
     "Acids, Bases and Salts.canvas",
     "Sectors of Indian Economy.canvas",
-    "Vishnu's Notes",
     "hi.md"
   ]
 }
