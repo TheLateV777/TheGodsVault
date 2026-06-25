@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "040cf32bb5b71dbb",
+            "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Vishnu's Notes/Nationalism in Europe.canvas",
                 "viewState": {
-                  "x": 2409.722930708966,
-                  "y": 6533.251702932651,
-                  "zoom": -0.8351435542411827
+                  "x": 2479.9476014820866,
+                  "y": 6477.555202593759,
+                  "zoom": -0.5018102209078494
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +194,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "040cf32bb5b71dbb",
+  "floating": {
+    "id": "b10322ae639535e4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "913290c5ddec660a",
+        "type": "window",
+        "children": [
+          {
+            "id": "c3a5386dd60f98c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "040cf32bb5b71dbb",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFs/Nationalism in Europe.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Nationalism in Europe"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1951,
+        "y": 572,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
     "PDFs/Nationalism in Europe.pdf",
+    "Vishnu's Notes/Nationalism in Europe.canvas",
     "PDFs/Federalism.pdf",
     "PDFs/Development.pdf",
     "PDFs/Resource and Development.pdf",
@@ -208,7 +246,6 @@
     "Media",
     "Vishnu's Notes/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Power Sharing.canvas",
-    "Vishnu's Notes/Nationalism in Europe.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Chemical Reactions and Equations.canvas",
     "Vishnu's Notes/Acids, Bases and Salts.canvas",
