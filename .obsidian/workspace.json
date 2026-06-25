@@ -11,51 +11,17 @@
             "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-                "viewState": {
-                  "x": -2602.614117232477,
-                  "y": 367.75987005443847,
-                  "zoom": -1.5693306809926306
-                }
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Federalism"
-            }
-          },
-          {
-            "id": "d682342a01062831",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Index)"
-            }
-          },
-          {
-            "id": "926bb316a665e314",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "926bb316a665e314",
+  "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
