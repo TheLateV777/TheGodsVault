@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "14ff998351a1d187",
-        "type": "split",
+        "id": "34fb756ab685a8a8",
+        "type": "tabs",
         "children": [
           {
-            "id": "1269720fae5073f6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f43b4941efa901ce",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-                    "viewState": {
-                      "x": -74.18946954245666,
-                      "y": 2251.3307155151583,
-                      "zoom": 0.10747726762852217
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Federalism"
-                }
-              },
-              {
-                "id": "2731e9763db68cf4",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "34fb756ab685a8a8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1df8280f1898da7f",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFs/Federalism.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Federalism"
-                }
-              }
-            ]
+            "id": "1df8280f1898da7f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,12 +188,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2731e9763db68cf4",
+  "active": "1df8280f1898da7f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-    "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
+    "Vishnu's Notes/Chemical Reactions and Equations.canvas",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
+    "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
+    "Media/Universal Indicator.png",
+    "Media/Resource and Development pic 002.png",
+    "Media/Resource and Development pic 001.png",
+    "Readme.md",
+    "Untitled.canvas",
     "PDFs/Federalism.pdf",
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
+    "conflict-files-obsidian-git.md",
+    "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
     "Vishnu's Notes/Power Sharing.canvas",
     "PDFs/Development.pdf",
@@ -255,7 +221,6 @@
     "SB's Notes/Social/Politics/Federalism",
     "SB's Notes/Social/Politics",
     "SB's Notes/Social",
-    "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "Chemistry/Chemical Reactions And Equations/Notes",
     "Chemistry/Chemical Reactions And Equations",
     "Chemistry",
@@ -276,16 +241,9 @@
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/Politics/Federalism/What is it.md",
     "SB's Notes/SST/Politics/Power Sharing/Power Sharing.canvas",
-    "SB's Notes/SST/Politics/Federalism/What Makes India a federal country.md",
-    "SB's Notes/SST/Politics/Federalism/States Enjoying Special Power..md",
-    "SB's Notes/SST/Politics/Federalism/Linguistic States.md",
     "SB's Notes/SST/Politics/Federalism/Federalism.canvas",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/SST/SST/Politics/Power Sharing/Power Sharing.canvas",
-    "SB's Notes/SST/SST/Politics/Federalism/Federalism.canvas",
-    "Media/Resource and Development pic 002.png",
-    "Media/Resource and Development pic 001.png",
-    "Media/Universal Indicator.png"
+    "SB's Notes/SST/SST/Politics/Power Sharing/Power Sharing.canvas"
   ]
 }
