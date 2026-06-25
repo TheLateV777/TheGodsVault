@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"d46d3bbeec1069f9","type":"text","text":"Life Processes","x":-120,"y":-260,"width":165,"height":60,"color":"6"},
+		{"id":"98a5695e9c1b99be","x":-178,"y":-140,"width":282,"height":100,"color":"2","type":"file","file":"Biology/Life Processes/notes/Life Process And Metabolic Activities.md"},
+		{"id":"083d950fc4f37b26","x":220,"y":120,"width":141,"height":60,"color":"1","type":"text","text":"Transpiration"},
+		{"id":"90bffe6315c2d9d3","x":20,"y":120,"width":120,"height":60,"color":"1","type":"text","text":"Excretion"},
+		{"id":"158e418a7bc459a1","x":-220,"y":120,"width":150,"height":60,"color":"1","type":"text","text":"Respiration"},
+		{"id":"c82e4da667a63ab3","x":-440,"y":120,"width":140,"height":60,"color":"1","type":"text","text":"Nutrition"},
+		{"id":"2a9e63f948bfaf92","x":-380,"y":-255,"width":160,"height":50,"color":"1","type":"text","text":"Organ System"},
+		{"id":"d375eb74932168c3","x":-640,"y":-200,"width":180,"height":60,"type":"text","text":"Very Imp to survive"}
+	],
+	"edges":[
+		{"id":"f3e5cd557ba8212c","fromNode":"d46d3bbeec1069f9","fromSide":"bottom","toNode":"98a5695e9c1b99be","toSide":"top"},
+		{"id":"6567a10f41d62c14","fromNode":"98a5695e9c1b99be","fromSide":"bottom","toNode":"c82e4da667a63ab3","toSide":"right"},
+		{"id":"30ba2ddf1f595b82","fromNode":"98a5695e9c1b99be","fromSide":"bottom","toNode":"083d950fc4f37b26","toSide":"left"},
+		{"id":"c436329d39a3ec68","fromNode":"98a5695e9c1b99be","fromSide":"bottom","toNode":"90bffe6315c2d9d3","toSide":"top"},
+		{"id":"960d4809f1729b4c","fromNode":"98a5695e9c1b99be","fromSide":"bottom","toNode":"158e418a7bc459a1","toSide":"top"},
+		{"id":"b9f1d83f552a9873","fromNode":"d46d3bbeec1069f9","fromSide":"left","toNode":"2a9e63f948bfaf92","toSide":"right"}
+	]
+}

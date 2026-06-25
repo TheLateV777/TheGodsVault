@@ -1,0 +1,12 @@
+- The Dream Of Worldwide Democratic and Social Republics
+	 - In 1848, created by a French artist, Frederic Sorrieu, prepared a series of four prints visualising his dream. 
+	 - The dream was a world made up of 'Democratic and Social Republic'.
+	 - The first print shows the people of Europe and America - Men and Women of all ages and social classes.
+	 - The people were marching, and offering homage to the statue of Liberty as they pass by it.
+	 - Artists of the time of French Revolution personified Liberty as a Female Figure.
+	 - The statue of Liberty a Female who holds the torch of enlightenment and Charter of the Rights Of Man in the other hand.
+	 - In Sorrieu's utopian vision, the peoples of the world are grouped as distinct nations, identified in their national flags and costume.
+	 - Here it depicts whomever passed the statue of Liberty were considered nation states includes US, Switzerland.
+	 - France identified by their revolutionary Tri-Color, Js Reached the statue.
+	 - the ones Marching towards were depicted to be liberal soon. like German, Austria, Lombardy, Poland, England, Ireland, Hungary and Russia.
+	 - The Christ, saints and angels gaze upon the scene. they hv been used by artist to symbolise fraternity among nation of the world.

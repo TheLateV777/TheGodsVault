@@ -1,0 +1,1 @@
+When Fats and Oils are oxidized, they become rancid and their taste and smell change as they breakdown due to oxygen.
