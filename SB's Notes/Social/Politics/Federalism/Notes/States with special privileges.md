@@ -1,0 +1,7 @@
+- Some States enjoy a special status.
+- States such as Assam, Nagaland, Arunachal Pradesh and Mizoram enjoy special powers.
+- these states were given a constitutional rule made by the Constitution of India as Article 371.
+- It was due to their peculiar social and historical circumstances.
+- These special powers are especially enjoyed in relation to the protection of land rights of indigenous peoples, their culture and also preferential employment in government services.
+- Indians who are not permanent residents of this State cannot buy land or house here.
+- Similar special provisions exist for some other States of India as well.

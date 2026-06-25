@@ -1,0 +1,1 @@
+ includes subjects of national importance, such as defence of the country, foreign affairs, banking, communications and currency. They are included in this list because we need a uniform policy on these matters throughout the country. The Union Government alone can make laws relating to the subjects mentioned in the Union List

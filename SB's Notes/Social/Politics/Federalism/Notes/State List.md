@@ -1,0 +1,1 @@
+ contains subjects of State and local importance, such as police, trade, commerce, agriculture and irrigation. The State Governments alone can make laws relating to the subjects mentioned in the State List.

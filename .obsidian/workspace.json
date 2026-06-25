@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47bd2c2ddf1ddc1d",
+        "id": "abae0debc02c0034",
         "type": "tabs",
         "children": [
           {
-            "id": "32c527e6501f3dd5",
+            "id": "aa37a71f6d49a7d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -191,6 +195,17 @@
   "active": "6286c0aa711d14fb",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md",
+    "SB's Notes/Social/Politics/Federalism/Notes/What Makes India a federal country.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/What is it.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/State List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes",
     "Vishnu's Notes/Social Science/Civics",
     "Vishnu's Notes/Social Science/History",
     "Vishnu's Notes/Social Science/Geography",
@@ -219,22 +234,12 @@
     "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
     "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
     "SB's Notes/Social/Politics/Federalism/What is it.md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes",
     "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Exothermic Reaction.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Endothermic.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Double Displacement Reaction.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Displacement Reaction.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Decomposition Reaction.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Combination Reaction.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Chemical Equations.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",

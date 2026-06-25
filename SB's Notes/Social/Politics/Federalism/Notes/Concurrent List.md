@@ -1,0 +1,1 @@
+includes subjects of common interest to both the Union Government as well as the State Governments, such as education, forest, trade unions, marriage, adoption and succession. Both the Union as well as the State Governments can make laws on the subjects mentioned in this list. If their laws conflict with each other, the law made by the Union Government will prevail.

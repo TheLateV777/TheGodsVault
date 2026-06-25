@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"cb48b44d5b82d0d8","type":"file","file":"SB's Notes/Social/Politics/Federalism/What is it.md","x":-160,"y":-400,"width":340,"height":260,"color":"1"},
+		{"id":"cb48b44d5b82d0d8","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/What is it.md","x":-160,"y":-400,"width":340,"height":260,"color":"1"},
 		{"id":"b29c9c3b574325bc","type":"text","text":"The fundamental provisions of the constitution requires the consent of both lvls of govt. Cannot easily changed by one govt.","x":-2525,"y":296,"width":290,"height":104,"color":"5"},
 		{"id":"475d7583b0ac74df","type":"text","text":"Courts hv power to interpret the constitution and powers of different lvls of govt. highest lvl of court acts as an umpire is dispute between the lvl of govt. arises..","x":-2160,"y":288,"width":309,"height":144,"color":"5"},
 		{"id":"89e94c0aa8d9e734","type":"text","text":"Sources of revenue for each lvl of govt. are clearly specified to ensure financial autonomy.","x":-1720,"y":330,"width":302,"height":100,"color":"5"},
@@ -13,11 +13,17 @@
 		{"id":"e0ae7f5337e56de0","type":"text","text":"Federalism","x":-160,"y":-60,"width":140,"height":60,"color":"6"},
 		{"id":"ca0a3801da078308","type":"text","text":"First One involving independent states coming together on their own to form a bigger unit, so tht pooling sovereignty and retaining identity can increase security. Ex:- USA, Switzerland, and Australia.  COMING TOGETHER FEDERATION.","x":260,"y":282,"width":345,"height":160,"color":"3"},
 		{"id":"c66aaf8c13e51e4c","type":"text","text":"India","x":-680,"y":155,"width":108,"height":50},
-		{"id":"848e181fad4b4a9b","type":"file","file":"SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md","x":-490,"y":760,"width":551,"height":437},
-		{"id":"650a7ed007f46a08","type":"text","text":"How is Federalism Practiced?","x":-490,"y":1300,"width":250,"height":60},
-		{"id":"d0be39a640483722","type":"file","file":"SB's Notes/Social/Politics/Federalism/Linguistic States.md","x":-940,"y":1520,"width":400,"height":400},
 		{"id":"b00a50519a0ef134","type":"text","text":"The second one is whr a large country decides to divide its power between the constituent States and the national govt. India, Spain, Belgium.. ARE HOLDING TOGETHER FEDERATION.","x":880,"y":300,"width":340,"height":140,"color":"3"},
-		{"id":"1e40b7514bdaad23","type":"file","file":"SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md","x":-480,"y":300,"width":530,"height":380}
+		{"id":"650a7ed007f46a08","type":"text","text":"How is Federalism Practiced?","x":-1543,"y":800,"width":250,"height":60},
+		{"id":"d0be39a640483722","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md","x":-1743,"y":1060,"width":400,"height":400},
+		{"id":"1e40b7514bdaad23","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/What Makes India a federal country.md","x":-519,"y":880,"width":530,"height":380},
+		{"id":"59e4bceecf65fabf","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union List.md","x":400,"y":700,"width":380,"height":271},
+		{"id":"bddcc4f20091d3e1","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/State List.md","x":400,"y":1015,"width":380,"height":245},
+		{"id":"ff7ac5364ceaac4b","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md","x":403,"y":1320,"width":377,"height":229},
+		{"id":"47364a844c14f079","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md","x":392,"y":1600,"width":400,"height":400},
+		{"id":"a4cbaace5dec46ed","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md","x":392,"y":2060,"width":400,"height":400},
+		{"id":"848e181fad4b4a9b","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md","x":-540,"y":1823,"width":580,"height":437},
+		{"id":"54a406f6c59774bd","x":-2750,"y":520,"width":400,"height":400,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md"}
 	],
 	"edges":[
 		{"id":"738916f5df9a12b1","fromNode":"e0ae7f5337e56de0","fromSide":"top","toNode":"cb48b44d5b82d0d8","toSide":"bottom"},
@@ -36,6 +42,18 @@
 		{"id":"2657068c57c67ba5","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"848e181fad4b4a9b","toSide":"left"},
 		{"id":"8a2401252e405ca2","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"1e40b7514bdaad23","toSide":"left"},
 		{"id":"7f603b66ecff0e42","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"650a7ed007f46a08","toSide":"left"},
-		{"id":"626e4263c95a2f4e","fromNode":"650a7ed007f46a08","fromSide":"bottom","toNode":"d0be39a640483722","toSide":"top"}
+		{"id":"626e4263c95a2f4e","fromNode":"650a7ed007f46a08","fromSide":"bottom","toNode":"d0be39a640483722","toSide":"top"},
+		{"id":"80b1c191baf7a4ca","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"bddcc4f20091d3e1","toSide":"left","label":" State List"},
+		{"id":"55a3bb3228010abe","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"59e4bceecf65fabf","toSide":"left","label":"Union List"},
+		{"id":"de85ef18d3fba144","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"ff7ac5364ceaac4b","toSide":"left","label":"Concurrent List"},
+		{"id":"dd3fd029fd68df26","fromNode":"848e181fad4b4a9b","fromSide":"right","toNode":"47364a844c14f079","toSide":"left","label":"UT : states with\nless privileges."},
+		{"id":"b44bba22167c94d7","fromNode":"848e181fad4b4a9b","fromSide":"right","toNode":"a4cbaace5dec46ed","toSide":"left","label":"States with more\nprivileges. Article 371"},
+		{"id":"74bdb32be8efd185","fromNode":"61998019d7eebc30","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
+		{"id":"f272f15b259ccabf","fromNode":"2da6732a82d627e4","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
+		{"id":"bbe651f8e83b528b","fromNode":"7b97bf3fc0910270","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"372657eb3ce71667","fromNode":"89e94c0aa8d9e734","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"4eda37c39678cbc5","fromNode":"475d7583b0ac74df","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"69b091bc8c11edad","fromNode":"d72fc8913adce662","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
+		{"id":"2fb3288ba72c60b9","fromNode":"b29c9c3b574325bc","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"}
 	]
 }
