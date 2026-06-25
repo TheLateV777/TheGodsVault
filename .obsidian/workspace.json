@@ -11,10 +11,17 @@
             "id": "f43b4941efa901ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "SB's Notes/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
+                "viewState": {
+                  "x": 289.9094936708859,
+                  "y": 432.18254549050647,
+                  "zoom": 0.11099478892597803
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Nationalism in Europe Concept Map"
             }
           }
         ]
@@ -187,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6286c0aa711d14fb",
+  "active": "f43b4941efa901ce",
   "lastOpenFiles": [
     "SB's Notes/SST/Politics/Power Sharing/Notes/Ethnic Compostion..md",
     "SB's Notes/SST/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
