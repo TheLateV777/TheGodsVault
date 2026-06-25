@@ -11,17 +11,10 @@
             "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-                "viewState": {
-                  "x": -2125.8833116394385,
-                  "y": 629.9555831191867,
-                  "zoom": -1.2537720493872733
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Federalism"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -197,13 +190,13 @@
   },
   "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "Vishnu's Notes/Power Sharing.canvas",
     "Vishnu's Notes/Nationalism in Europe.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Chemical Reactions and Equations.canvas",
     "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Readme.md",
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
