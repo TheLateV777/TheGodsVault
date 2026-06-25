@@ -20,9 +20,10 @@
 		{"id":"59e4bceecf65fabf","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union List.md","x":400,"y":700,"width":380,"height":271},
 		{"id":"bddcc4f20091d3e1","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/State List.md","x":400,"y":1015,"width":380,"height":245},
 		{"id":"ff7ac5364ceaac4b","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md","x":403,"y":1320,"width":377,"height":229},
-		{"id":"47364a844c14f079","x":392,"y":1600,"width":400,"height":400,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md"},
-		{"id":"a4cbaace5dec46ed","x":392,"y":2060,"width":400,"height":400,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md"},
-		{"id":"848e181fad4b4a9b","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md","x":-540,"y":1823,"width":580,"height":437}
+		{"id":"47364a844c14f079","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md","x":392,"y":1600,"width":400,"height":400},
+		{"id":"a4cbaace5dec46ed","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md","x":392,"y":2060,"width":400,"height":400},
+		{"id":"848e181fad4b4a9b","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md","x":-540,"y":1823,"width":580,"height":437},
+		{"id":"54a406f6c59774bd","x":-2750,"y":520,"width":400,"height":400,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md"}
 	],
 	"edges":[
 		{"id":"738916f5df9a12b1","fromNode":"e0ae7f5337e56de0","fromSide":"top","toNode":"cb48b44d5b82d0d8","toSide":"bottom"},
@@ -46,6 +47,13 @@
 		{"id":"55a3bb3228010abe","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"59e4bceecf65fabf","toSide":"left","label":"Union List"},
 		{"id":"de85ef18d3fba144","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"ff7ac5364ceaac4b","toSide":"left","label":"Concurrent List"},
 		{"id":"dd3fd029fd68df26","fromNode":"848e181fad4b4a9b","fromSide":"right","toNode":"47364a844c14f079","toSide":"left","label":"UT : states with\nless privileges."},
-		{"id":"b44bba22167c94d7","fromNode":"848e181fad4b4a9b","fromSide":"right","toNode":"a4cbaace5dec46ed","toSide":"left","label":"States with more\nprivileges. Article 371"}
+		{"id":"b44bba22167c94d7","fromNode":"848e181fad4b4a9b","fromSide":"right","toNode":"a4cbaace5dec46ed","toSide":"left","label":"States with more\nprivileges. Article 371"},
+		{"id":"74bdb32be8efd185","fromNode":"61998019d7eebc30","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
+		{"id":"f272f15b259ccabf","fromNode":"2da6732a82d627e4","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
+		{"id":"bbe651f8e83b528b","fromNode":"7b97bf3fc0910270","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"372657eb3ce71667","fromNode":"89e94c0aa8d9e734","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"4eda37c39678cbc5","fromNode":"475d7583b0ac74df","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"69b091bc8c11edad","fromNode":"d72fc8913adce662","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
+		{"id":"2fb3288ba72c60b9","fromNode":"b29c9c3b574325bc","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"}
 	]
 }

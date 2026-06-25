@@ -1,0 +1,8 @@
+Let us look at some of the key features of federalism :
+- 1 There are two or more levels (or tiers) of government.
+- 2 Different tiers of government govern the same citizens, but each tier has its own jurisdiction in specific matters of legislation, taxation and administration.
+- 3 The jurisdictions of the respective levels or tiers of government are specified in the constitution. So the existence and authority of each tier of government is constitutionally guaranteed.
+- 4 The fundamental provisions of the constitution cannot be unilaterally changed by one level of government. Such changes require the consent of both the levels of government.
+- 5 Courts have the power to interpret the constitution and the powers of different levels of government. The highest court acts as an umpire if disputes arise between different levels of government in the exercise of their respective powers.
+-  6 Sources of revenue for each level of government are clearly specified to ensure its financial autonomy.
+- 7 The federal system thus has dual objectives: to safeguard and promote unity of the country, while at the same time accommodate regional diversity. Therefore, two aspects are crucial for the institutions and practice of federalism. Governments at different levels should agree to some rules of power-sharing. They should also trust that each would abide by its part of the agreement. An ideal federal system has both aspects : mutual trust and agreement to live together
