@@ -1,5 +1,0 @@
-- ==59%== lives in the ==Flemish== and ==speaks in Dutch.==
-- ==40%== lives in ==Wallonia== and ==speaks in French.==
-- Remaining ==1%== of them ==speak German.==
-- ==The Capital Brussels, 80% speaks French and 20% speaks Dutch.==
-- The ==Minority French speakers were relatively rich and powerful.== As, the Dutch speakers got the benefits of ==economic development and education much later.==
