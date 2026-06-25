@@ -11,10 +11,17 @@
             "id": "b6bcfac01850e6e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
+                "viewState": {
+                  "x": 195.51124889980883,
+                  "y": -149.67602902311933,
+                  "zoom": -2.1751285960498525
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Forest and Wildlife Resources"
             }
           }
         ]
@@ -188,7 +195,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6286c0aa711d14fb",
+  "active": "b6bcfac01850e6e3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
