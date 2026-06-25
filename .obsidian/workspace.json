@@ -28,14 +28,17 @@
             "id": "6c8809a14db97600",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+                "viewState": {
+                  "x": 24.12853413935524,
+                  "y": -156.44881085995945,
+                  "zoom": -0.7489382358322816
+                }
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Federalism"
             }
           }
         ],
@@ -211,6 +214,7 @@
   },
   "active": "6c8809a14db97600",
   "lastOpenFiles": [
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "conflict-files-obsidian-git.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
@@ -226,7 +230,6 @@
     "SB's Notes/Social/Politics/Federalism/What is it.md",
     "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "SB's Notes/Social/Politics/Federalism",
     "SB's Notes/Social/Politics",
     "SB's Notes/Social",

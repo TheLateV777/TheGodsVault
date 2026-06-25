@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"cb48b44d5b82d0d8","type":"file","file":"Politics/Federalism/What is it.md","x":-160,"y":-400,"width":340,"height":260,"color":"1"},
+		{"id":"cb48b44d5b82d0d8","type":"file","file":"SB's Notes/Social/Politics/Federalism/What is it.md","x":-160,"y":-400,"width":340,"height":260,"color":"1"},
 		{"id":"b29c9c3b574325bc","type":"text","text":"The fundamental provisions of the constitution requires the consent of both lvls of govt. Cannot easily changed by one govt.","x":-2525,"y":296,"width":290,"height":104,"color":"5"},
 		{"id":"475d7583b0ac74df","type":"text","text":"Courts hv power to interpret the constitution and powers of different lvls of govt. highest lvl of court acts as an umpire is dispute between the lvl of govt. arises..","x":-2160,"y":288,"width":309,"height":144,"color":"5"},
 		{"id":"89e94c0aa8d9e734","type":"text","text":"Sources of revenue for each lvl of govt. are clearly specified to ensure financial autonomy.","x":-1720,"y":330,"width":302,"height":100,"color":"5"},
@@ -13,11 +13,11 @@
 		{"id":"b00a50519a0ef134","type":"text","text":"The second one is whr a large country decides to divide its power between the constituent States and the national govt. India, Spain, Belgium.. ARE HOLDING TOGETHER FEDERATION.","x":820,"y":282,"width":340,"height":140},
 		{"id":"e0ae7f5337e56de0","type":"text","text":"Federalism","x":-160,"y":-60,"width":140,"height":60,"color":"6"},
 		{"id":"ca0a3801da078308","type":"text","text":"First One involving independent states coming together on their own to form a bigger unit, so tht pooling sovereignty and retaining identity can increase security. Ex:- USA, Switzerland, and Australia.  COMING TOGETHER FEDERATION.","x":340,"y":272,"width":345,"height":160},
-		{"id":"1e40b7514bdaad23","type":"file","file":"Politics/Federalism/What Makes India a federal country.md","x":-490,"y":300,"width":530,"height":380},
+		{"id":"1e40b7514bdaad23","type":"file","file":"SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md","x":-490,"y":300,"width":530,"height":380},
 		{"id":"c66aaf8c13e51e4c","type":"text","text":"India","x":-680,"y":155,"width":108,"height":50},
-		{"id":"848e181fad4b4a9b","type":"file","file":"Politics/Federalism/States Enjoying Special Power..md","x":-490,"y":760,"width":551,"height":437},
+		{"id":"848e181fad4b4a9b","type":"file","file":"SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md","x":-490,"y":760,"width":551,"height":437},
 		{"id":"650a7ed007f46a08","type":"text","text":"How is Federalism Practiced?","x":-490,"y":1300,"width":250,"height":60},
-		{"id":"d0be39a640483722","x":-940,"y":1520,"width":400,"height":400,"type":"file","file":"Politics/Federalism/Linguistic States.md"}
+		{"id":"d0be39a640483722","type":"file","file":"SB's Notes/Social/Politics/Federalism/Linguistic States.md","x":-940,"y":1520,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"738916f5df9a12b1","fromNode":"e0ae7f5337e56de0","fromSide":"top","toNode":"cb48b44d5b82d0d8","toSide":"bottom"},
