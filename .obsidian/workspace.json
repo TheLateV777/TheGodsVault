@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Resource and Development.canvas",
+                "file": "Vishnu's Notes/Nationalism in Europe.canvas",
                 "viewState": {
-                  "x": 785.2652045255961,
-                  "y": 2668.235134643348,
-                  "zoom": -1.5460587160408372
+                  "x": 2409.722930708966,
+                  "y": 6533.251702932651,
+                  "zoom": -0.8351435542411827
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Resource and Development"
+              "title": "Nationalism in Europe"
             }
           }
         ]
@@ -194,14 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f26ad016586051fe",
+  "active": "040cf32bb5b71dbb",
   "lastOpenFiles": [
+    "PDFs/Nationalism in Europe.pdf",
+    "PDFs/Federalism.pdf",
+    "PDFs/Development.pdf",
+    "PDFs/Resource and Development.pdf",
+    "PDFs",
+    "Vishnu's Notes/Resource and Development.canvas",
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png",
     "Media",
     "Vishnu's Notes/Sectors of Indian Economy.canvas",
-    "Vishnu's Notes/Resource and Development.canvas",
     "Vishnu's Notes/Power Sharing.canvas",
     "Vishnu's Notes/Nationalism in Europe.canvas",
     "Vishnu's Notes/Forest and Wildlife Resources.canvas",
