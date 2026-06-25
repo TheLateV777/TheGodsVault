@@ -1,0 +1,4 @@
+- A small country in Europe, smaller in area than state of ==Haryana.==
+- Shares borders with ==France, Germany, Netherlands, Luxembourg.==
+- Population ==little over 1cr==.
+- ==half of the population== of Haryana.

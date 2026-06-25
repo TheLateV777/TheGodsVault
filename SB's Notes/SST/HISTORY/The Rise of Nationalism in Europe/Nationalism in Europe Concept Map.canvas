@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"388477328940e0aa","type":"text","text":"The Rise Of Nationalism In Europe","x":-125,"y":-30,"width":285,"height":60,"color":"1"},
+		{"id":"3e99a040f864b454","x":140,"y":200,"width":400,"height":400,"type":"file","file":"HISTORY/The Rise of Nationalism in Europe/Introduction.md"}
+	],
+	"edges":[
+		{"id":"1ce0247a72950eaa","fromNode":"388477328940e0aa","fromSide":"bottom","toNode":"3e99a040f864b454","toSide":"left"}
+	]
+}

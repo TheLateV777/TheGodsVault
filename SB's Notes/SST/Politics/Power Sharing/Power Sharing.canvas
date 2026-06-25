@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c7f986dde7ae7619","type":"text","text":"Power-Sharing","x":-40,"y":-280,"width":156,"height":60,"color":"6"},
+		{"id":"a2003468057196a2","type":"text","text":"Sri Lanka","x":500,"y":-157,"width":116,"height":60,"color":"1"},
+		{"id":"6db1c87ee3907cb5","type":"text","text":"Belgium","x":-640,"y":-157,"width":116,"height":60,"color":"1"},
+		{"id":"71e21fb8472154a2","type":"file","file":"Politics/Power Sharing/Notes/Belgium.md","x":-801,"y":100,"width":323,"height":257},
+		{"id":"bdb1fc8471e3186e","type":"file","file":"Politics/Power Sharing/Notes/Ethnic Compostion..md","x":-478,"y":100,"width":300,"height":257},
+		{"id":"0742d6cadfe88b93","type":"file","file":"Politics/Power Sharing/Notes/Belgium Map.png","x":-782,"y":-542,"width":400,"height":292},
+		{"id":"0ee0dfd6fb8b7a2b","type":"file","file":"Politics/Power Sharing/Notes/SriLanka Map.png","x":425,"y":-620,"width":266,"height":400}
+	],
+	"edges":[
+		{"id":"7fe2f4eb98164384","fromNode":"c7f986dde7ae7619","fromSide":"bottom","toNode":"a2003468057196a2","toSide":"left"},
+		{"id":"993c4d1682a51a35","fromNode":"c7f986dde7ae7619","fromSide":"bottom","toNode":"6db1c87ee3907cb5","toSide":"right"},
+		{"id":"feb6c5f56a7c4c79","fromNode":"6db1c87ee3907cb5","fromSide":"bottom","toNode":"71e21fb8472154a2","toSide":"top"},
+		{"id":"f4f4548327f7a0a1","fromNode":"6db1c87ee3907cb5","fromSide":"bottom","toNode":"bdb1fc8471e3186e","toSide":"top"},
+		{"id":"da48baf353a7dbfb","fromNode":"6db1c87ee3907cb5","fromSide":"top","toNode":"0742d6cadfe88b93","toSide":"bottom"},
+		{"id":"5b4f478e6392980c","fromNode":"a2003468057196a2","fromSide":"top","toNode":"0ee0dfd6fb8b7a2b","toSide":"bottom"}
+	]
+}
