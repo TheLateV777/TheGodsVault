@@ -4,45 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "1269720fae5073f6",
-        "type": "tabs",
+        "id": "14ff998351a1d187",
+        "type": "split",
         "children": [
           {
-            "id": "f43b4941efa901ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
-                "viewState": {
-                  "x": -2217.963771788602,
-                  "y": 508.2372808207506,
-                  "zoom": -0.333333333333333
+            "id": "1269720fae5073f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f43b4941efa901ce",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+                    "viewState": {
+                      "x": -242.52593773269962,
+                      "y": 481.66388079257877,
+                      "zoom": 0.10747726762852217
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Federalism"
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Chemical Reactions And Equations"
-            }
+              {
+                "id": "2731e9763db68cf4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "What Makes India a federal country"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "6c8809a14db97600",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-                "viewState": {
-                  "x": 24.12853413935524,
-                  "y": -156.44881085995945,
-                  "zoom": -0.7489382358322816
+            "id": "34fb756ab685a8a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1df8280f1898da7f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFs/Federalism.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Federalism"
                 }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Federalism"
-            }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -212,11 +234,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c8809a14db97600",
+  "active": "2731e9763db68cf4",
   "lastOpenFiles": [
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-    "conflict-files-obsidian-git.md",
+    "PDFs/Federalism.pdf",
+    "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
+    "Vishnu's Notes/Power Sharing.canvas",
+    "PDFs/Development.pdf",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
+    "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
+    "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
@@ -226,10 +253,8 @@
     "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes",
     "SB's Notes/Social/Politics/Power Sharing",
-    "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
     "SB's Notes/Social/Politics/Federalism/What is it.md",
     "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
-    "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
     "SB's Notes/Social/Politics/Federalism",
     "SB's Notes/Social/Politics",
     "SB's Notes/Social",
@@ -254,17 +279,14 @@
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/Politics/Federalism/What is it.md",
     "SB's Notes/SST/Politics/Power Sharing/Power Sharing.canvas",
-    "SB's Notes/SST/Politics/Power Sharing/Notes",
     "SB's Notes/SST/Politics/Federalism/What Makes India a federal country.md",
     "SB's Notes/SST/Politics/Federalism/States Enjoying Special Power..md",
     "SB's Notes/SST/Politics/Federalism/Linguistic States.md",
     "SB's Notes/SST/Politics/Federalism/Federalism.canvas",
-    "SB's Notes/SST/Politics/Power Sharing",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/SST/SST/Politics/Federalism/Federalism.canvas",
-    "SB's Notes/SST/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png"
