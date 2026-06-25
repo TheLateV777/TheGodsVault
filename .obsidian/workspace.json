@@ -11,14 +11,17 @@
             "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+                "viewState": {
+                  "x": -2125.8833116394385,
+                  "y": 629.9555831191867,
+                  "zoom": -1.2537720493872733
+                }
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-layout-dashboard",
+              "title": "Federalism"
             }
           }
         ]
@@ -188,11 +191,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
+    "Vishnu's Notes/Power Sharing.canvas",
+    "Vishnu's Notes/Nationalism in Europe.canvas",
+    "Vishnu's Notes/Forest and Wildlife Resources.canvas",
+    "Vishnu's Notes/Chemical Reactions and Equations.canvas",
+    "Vishnu's Notes/Acids, Bases and Salts.canvas",
+    "Readme.md",
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
@@ -202,7 +212,6 @@
     "SB's Notes/Social/Politics/Power Sharing/Notes/Ethnic Compostion..md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
-    "Readme.md",
     "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
     "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
@@ -216,7 +225,6 @@
     "Chemistry/Chemical Reactions And Equations/Notes",
     "Chemistry/Chemical Reactions And Equations",
     "Chemistry",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
@@ -238,10 +246,7 @@
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes",
-    "SB's Notes/SST/Politics/Federalism/Federalism.canvas",
-    "SB's Notes/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
     "SB's Notes/SST/Politics/Power Sharing",
-    "SB's Notes/Chemical Reactions.canvas",
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png"
