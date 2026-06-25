@@ -11,6 +11,7 @@
 
 # Please Download These Libraries For Smooth Flow in Everyone's Work
 - Git
-### To be added later
+- Highlightr
 - Excalidraw
 - Tasks
+### To be added later
