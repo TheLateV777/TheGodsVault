@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "Chemical Reactions And Equations"
             }
+          },
+          {
+            "id": "6c8809a14db97600",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f26ad016586051fe",
+  "active": "6c8809a14db97600",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
@@ -240,14 +257,11 @@
     "SB's Notes/SST/Politics/Federalism/Linguistic States.md",
     "SB's Notes/SST/Politics/Federalism/Federalism.canvas",
     "SB's Notes/SST/Politics/Power Sharing",
-    "SB's Notes/SST/Politics/Language policy.md",
-    "SB's Notes/SST/Politics/Development 001.md",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/SST/SST/Politics/Federalism/Federalism.canvas",
     "SB's Notes/SST/SST/HISTORY/The Rise of Nationalism in Europe/Nationalism in Europe Concept Map.canvas",
-    "Vishnu's Notes/Acids, Bases and Salts.canvas",
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
     "Media/Universal Indicator.png"
