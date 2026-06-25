@@ -1,0 +1,1 @@
+Reaction in which a single product is formed frm two or more reactants

@@ -1,0 +1,1 @@
+Reaction In Which Heat Is Produced As A By-Product

@@ -1,0 +1,1 @@
+Reaction In Which Heat Energy Is Absorbed
