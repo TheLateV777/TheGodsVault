@@ -11,14 +11,17 @@
             "id": "01a106ae3986c7ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Vishnu's Notes/Sectors of Indian Economy.canvas",
+                "viewState": {
+                  "x": 1154.3339043910757,
+                  "y": 3745.9866121946216,
+                  "zoom": -1.5759012027434842
+                }
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sectors of Indian Economy"
             }
           }
         ]
@@ -193,8 +196,8 @@
   },
   "active": "01a106ae3986c7ee",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Readme.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Untitled 1.base",
     "Vishnu's Notes/Acids, Bases and Salts.canvas",
