@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01a106ae3986c7ee",
+            "id": "44cbd46cd0228830",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -20,23 +20,8 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
-          },
-          {
-            "id": "3bb9f582475168f5",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Readme.md",
-                "bFile": "Readme.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Readme  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bb9f582475168f5",
+  "active": "44cbd46cd0228830",
   "lastOpenFiles": [
     "Readme.md",
     "Vishnu's Notes/Acids, Bases and Salts.canvas",
