@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
+                "file": "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
                 "viewState": {
-                  "x": 1658.716690670236,
-                  "y": 5976.82734117417,
-                  "zoom": 0.4240987972565155
+                  "x": -4293.6730456475,
+                  "y": 122.61504769095384,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Sectors of Indian Economy"
+              "title": "Acids, Bases and Salts"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -198,6 +197,7 @@
   },
   "active": "b6bcfac01850e6e3",
   "lastOpenFiles": [
+    "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
