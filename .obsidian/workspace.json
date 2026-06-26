@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
+                "file": "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
                 "viewState": {
-                  "x": 325.5797621032515,
-                  "y": -23.220744470273416,
-                  "zoom": -2.1751285960498525
+                  "x": 1658.716690670236,
+                  "y": 5976.82734117417,
+                  "zoom": 0.4240987972565155
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Forest and Wildlife Resources"
+              "title": "Sectors of Indian Economy"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -197,6 +198,7 @@
   },
   "active": "b6bcfac01850e6e3",
   "lastOpenFiles": [
+    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md",
@@ -222,7 +224,6 @@
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
     "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
     "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
     "Readme.md",
@@ -242,7 +243,6 @@
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
