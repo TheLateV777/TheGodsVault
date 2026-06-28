@@ -4,56 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "34fb756ab685a8a8",
+        "id": "5fbd904fd4ae14a1",
         "type": "tabs",
         "children": [
           {
-            "id": "120d219ec8d4dd73",
+            "id": "b6bcfac01850e6e3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+                "file": "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
                 "viewState": {
-                  "x": 305.2716924779679,
-                  "y": 1322.0268812807215,
-                  "zoom": -1.6606246129877884
+                  "x": -3794.4730944756247,
+                  "y": 311.4150660015006,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Federalism"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bc7825be95ddd1d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1df8280f1898da7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Federalism.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Federalism"
+              "title": "Acids, Bases and Salts"
             }
           },
           {
-            "id": "2b1cecfb1dcdd899",
+            "id": "3f0a0f34c12a3170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hello Nihal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Hello Nihal"
             }
           }
         ],
@@ -114,18 +96,92 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 233.5
   },
   "right": {
     "id": "7606b18731ee70ed",
     "type": "split",
     "children": [
       {
-        "id": "d9deb48941b31f61",
+        "id": "8ad4b6816826b129",
         "type": "tabs",
         "children": [
           {
-            "id": "74c67f6ca01fa207",
+            "id": "7609738c9d0924b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "393b01054a86011e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b5d91051a180348e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38c94c5042ebcec8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "38cba3fcda12bef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6286c0aa711d14fb",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -134,80 +190,80 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2b1cecfb1dcdd899",
+  "active": "6286c0aa711d14fb",
   "lastOpenFiles": [
-    "PDFs/Federalism.pdf",
-    "conflict-files-obsidian-git.md",
-    "Hello Nihal.md",
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
     "Excalidraw",
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-    "SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
-    "SB's Notes/Social/Social Overall.canvas",
-    "SB's Notes/Social/Politics/Untitled.base",
-    "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md",
-    "SB's Notes/Social/Politics/Federalism/Notes",
-    "SB's Notes/Social/Politics/Federalism/Notes/State List.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
-    "PDFs/Development.pdf",
-    "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
-    "Goals.md",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-    "Vishnu's Notes/Social Science/History",
-    "Vishnu's Notes/Social Science/Geography/Resource and Development.canvas",
-    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
-    "Vishnu's Notes/Social Science/Geography",
-    "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
-    "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
-    "Vishnu's Notes/Social Science/Economics",
-    "Vishnu's Notes/Social Science/Civics",
-    "Vishnu's Notes/Social Science",
-    "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
     "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
-    "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
-    "Media/Universal Indicator.png",
-    "Media/Resource and Development pic 002.png",
-    "Media/Resource and Development pic 001.png",
-    "Readme.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
+    "Hello Nihal.md",
+    "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
+    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
+    "conflict-files-obsidian-git.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/Notes/What Makes India a federal country.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/What is it.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/State List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes",
+    "Vishnu's Notes/Social Science/Civics",
+    "Vishnu's Notes/Social Science/History",
+    "Vishnu's Notes/Social Science/Geography",
+    "Vishnu's Notes/Social Science/Economics",
+    "Vishnu's Notes/Science/Biology",
+    "Vishnu's Notes/Science/Physics",
+    "Vishnu's Notes/Science/Chemistry",
+    "Vishnu's Notes/Social Science",
+    "Goals.md",
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
+    "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
+    "Readme.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
+    "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Ethnic Compostion..md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/Social/Politics/Federalism/Notes/What is it.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Combination Reaction.md",
+    "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
+    "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
+    "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
+    "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
+    "SB's Notes/Social/Politics/Federalism/What is it.md",
+    "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
+    "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
-    "SB's Notes/SST/SST/Politics/Power Sharing/Notes/Belgium Map.png"
+    "Media/Resource and Development pic 002.png",
+    "Media/Resource and Development pic 001.png",
+    "Media/Universal Indicator.png"
   ]
 }
