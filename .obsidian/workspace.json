@@ -11,35 +11,13 @@
             "id": "b6bcfac01850e6e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
-                "viewState": {
-                  "x": -3794.4730944756247,
-                  "y": 311.4150660015006,
-                  "zoom": -0.9999999999999998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Acids, Bases and Salts"
-            }
-          },
-          {
-            "id": "3f0a0f34c12a3170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Nihal.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hello Nihal"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,22 +191,38 @@
   "active": "6286c0aa711d14fb",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
-    "Excalidraw",
-    "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
-    "Hello Nihal.md",
-    "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
-    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
-    "conflict-files-obsidian-git.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md",
-    "SB's Notes/Social/Politics/Federalism/Notes/What Makes India a federal country.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/What is it.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/Notes/State List.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
     "SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Exothermic Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Endothermic.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Double Displacement Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Displacement Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Decomposition Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Combination Reaction.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Chemical Equations.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Balancing Equation.md",
+    "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
+    "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes.canvas",
+    "SB's Notes/SCIENCE/Biology/Life Processes/notes/Life Process And Metabolic Activities.md",
+    "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
+    "Hello Nihal.md",
+    "Excalidraw",
+    "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
+    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
+    "conflict-files-obsidian-git.md",
     "SB's Notes/Social/Politics/Federalism/Notes",
     "Vishnu's Notes/Social Science/Civics",
     "Vishnu's Notes/Social Science/History",
@@ -238,28 +232,12 @@
     "Vishnu's Notes/Science/Physics",
     "Vishnu's Notes/Science/Chemistry",
     "Vishnu's Notes/Social Science",
-    "Goals.md",
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
     "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
-    "Readme.md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
-    "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Ethnic Compostion..md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
-    "SB's Notes/Social/Politics/Federalism/States Enjoying Special Power..md",
-    "SB's Notes/Social/Politics/Federalism/Linguistic States.md",
-    "SB's Notes/Social/Politics/Federalism/What Makes India a federal country.md",
-    "SB's Notes/Social/Politics/Federalism/What is it.md",
-    "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
-    "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "Media/Resource and Development pic 002.png",
