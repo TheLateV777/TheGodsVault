@@ -8,7 +8,7 @@
 - Please do not resolve conflicts stupidly
 - Please contribute in your own way
 - No griefing other's notes and shitposting
-- Use [[Goals]] for setting up goals for the week
+- Use [[Goals]] for setting up goals for the week and tell your current status
 - Use [[BREAKING NEWS]] for sharing important info with everyone and receiving updates
 
 # Please Download These Libraries For Smooth Flow in Everyone's Work

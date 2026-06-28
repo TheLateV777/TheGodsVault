@@ -25,14 +25,17 @@
             "id": "5ab8c05f469d88aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "BREAKING NEWS.md",
-                "mode": "source",
-                "source": false
+                "file": "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
+                "viewState": {
+                  "x": 442.20309373594137,
+                  "y": 8348.471071697852,
+                  "zoom": -0.04376429288407635
+                }
               },
-              "icon": "lucide-file",
-              "title": "BREAKING NEWS"
+              "icon": "lucide-layout-dashboard",
+              "title": "Nationalism in Europe"
             }
           }
         ],
@@ -93,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -207,11 +211,51 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5ab8c05f469d88aa",
+  "floating": {
+    "id": "b10322ae639535e4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8421a88bb9cb8e5a",
+        "type": "window",
+        "children": [
+          {
+            "id": "642bf9092eb1ad94",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7913e8e95bb50af0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFs/Nationalism in Europe.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Nationalism in Europe"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1522,
+        "y": 304,
+        "width": 898,
+        "height": 776,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6286c0aa711d14fb",
   "lastOpenFiles": [
+    "PDFs/Nationalism in Europe.pdf",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "Readme.md",
-    "BREAKING NEWS.md",
     "Goals.md",
+    "Untitled.md",
+    "BREAKING NEWS.md",
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
@@ -234,8 +278,6 @@
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Combination Reaction.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Chemical Equations.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Balancing Equation.md",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes.canvas",
     "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
@@ -253,7 +295,6 @@
     "Vishnu's Notes/Social Science",
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
