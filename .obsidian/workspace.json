@@ -11,53 +11,13 @@
             "id": "120d219ec8d4dd73",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
-                "viewState": {
-                  "x": 305.2716924779679,
-                  "y": 1322.0268812807215,
-                  "zoom": -1.6606246129877884
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Federalism"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
-      },
-      {
-        "id": "bc7825be95ddd1d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1df8280f1898da7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Federalism.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Federalism"
-            }
-          },
-          {
-            "id": "2b1cecfb1dcdd899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,38 +113,41 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2b1cecfb1dcdd899",
+  "active": "f26ad016586051fe",
   "lastOpenFiles": [
-    "PDFs/Federalism.pdf",
-    "conflict-files-obsidian-git.md",
+    "PDFs/Electricity.pdf",
+    "PDFs/The Human Eye abd The Colourful World.pdf",
+    "PDFs/Control and Coordination.pdf",
+    "PDFs/Life Processes.pdf",
+    "PDFs/Metals and Non-Metals.pdf",
+    "PDFs/Acids, Base, Salts.pdf",
+    "PDFs/Chemical Reactions and Equations.pdf",
+    "PDFs/jesc101.pdf",
+    "PDFs/jesc102.pdf",
+    "PDFs/jesc103.pdf",
+    "PDFs/jesc106.pdf",
+    "SB's Notes/Social/Social Overall.canvas",
+    "Goals.md",
     "Hello Nihal.md",
-    "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
-    "Excalidraw",
+    "Readme.md",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "2026-06-28.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
     "SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
-    "SB's Notes/Social/Social Overall.canvas",
-    "SB's Notes/Social/Politics/Untitled.base",
     "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md",
-    "SB's Notes/Social/Politics/Federalism/Notes",
     "SB's Notes/Social/Politics/Federalism/Notes/State List.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
-    "PDFs/Development.pdf",
     "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
-    "Goals.md",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-    "Vishnu's Notes/Social Science/History",
     "Vishnu's Notes/Social Science/Geography/Resource and Development.canvas",
     "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
-    "Vishnu's Notes/Social Science/Geography",
     "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
-    "Vishnu's Notes/Social Science/Economics",
-    "Vishnu's Notes/Social Science/Civics",
-    "Vishnu's Notes/Social Science",
     "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
     "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
@@ -192,7 +155,6 @@
     "Media/Universal Indicator.png",
     "Media/Resource and Development pic 002.png",
     "Media/Resource and Development pic 001.png",
-    "Readme.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Oxidation and Reduction Also Redox Reaction.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md",
     "SB's Notes/Social/Politics/Federalism/Notes/What Makes India a federal country.md",
@@ -204,7 +166,6 @@
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/Social/Politics/Federalism/Notes/What is it.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Combination Reaction.md",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
