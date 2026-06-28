@@ -11,17 +11,14 @@
             "id": "b6bcfac01850e6e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
-                "viewState": {
-                  "x": 1733.674345685624,
-                  "y": 515.3918091019053,
-                  "zoom": -0.9425715491771697
-                }
+                "file": "Hello Nihal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Acids, Bases and Salts"
+              "icon": "lucide-file",
+              "title": "Hello Nihal"
             }
           }
         ]
@@ -195,8 +192,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6286c0aa711d14fb",
+  "active": "b6bcfac01850e6e3",
   "lastOpenFiles": [
+    "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
     "Hello Nihal.md",
     "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
     "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
@@ -226,7 +224,6 @@
     "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
     "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
-    "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
     "Readme.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
@@ -243,7 +240,6 @@
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/WORD EQUATION.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Rancidity.md",
     "SB's Notes/SCIENCE/Biology/Life Processes/Life Processes 1.canvas",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
