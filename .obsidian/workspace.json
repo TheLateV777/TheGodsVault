@@ -4,17 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "34fb756ab685a8a8",
+        "id": "6995909c26ca5ea0",
         "type": "tabs",
         "children": [
+          {
+            "id": "a1020410be5da329",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+                "viewState": {
+                  "x": -1762.0351016200063,
+                  "y": 1737.093855308077,
+                  "zoom": -1.574896190483483
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Federalism"
+            }
+          },
           {
             "id": "120d219ec8d4dd73",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SB's Notes/Social/Politics/Federalism/Notes/Linguistic diversity of India.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linguistic diversity of India"
+            }
+          }
+        ]
+      },
+      {
+        "id": "079eb67a011ce370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc81291fc820b706",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Federalism.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Federalism"
             }
           }
         ]
@@ -74,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 262.5
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -93,12 +132,89 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "417c941413146a7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDFs/Federalism.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Federalism"
+            }
+          },
+          {
+            "id": "1ea3a85f6f5c255f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDFs/Federalism.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Federalism"
+            }
+          },
+          {
+            "id": "2192b7901b2d480b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7b39358b70a951f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "41001e3178ab60be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PDFs/Federalism.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Federalism"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,25 +229,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f26ad016586051fe",
+  "active": "cc81291fc820b706",
   "lastOpenFiles": [
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "PDFs/Federalism.pdf",
+    "SB's Notes/Social/Politics/Federalism/Notes/Linguistic diversity of India.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Centre-State relations.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Language Policy.md",
+    "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
+    "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
+    "Goals.md",
+    "PDFs/Light Reflection and Refraction.pdf",
+    "PDFs/Light Reflection and Rarefaction.pdf",
+    "PDFs/jesc109.pdf",
+    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Chemical Reactions And Equations.canvas",
     "PDFs/Electricity.pdf",
     "PDFs/The Human Eye abd The Colourful World.pdf",
     "PDFs/Control and Coordination.pdf",
     "PDFs/Life Processes.pdf",
     "PDFs/Metals and Non-Metals.pdf",
     "PDFs/Acids, Base, Salts.pdf",
-    "PDFs/Chemical Reactions and Equations.pdf",
-    "PDFs/jesc101.pdf",
-    "PDFs/jesc102.pdf",
-    "PDFs/jesc103.pdf",
-    "PDFs/jesc106.pdf",
     "SB's Notes/Social/Social Overall.canvas",
-    "Goals.md",
     "Hello Nihal.md",
     "Readme.md",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "2026-06-28.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
@@ -142,14 +263,10 @@
     "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Concurrent List.md",
     "SB's Notes/Social/Politics/Federalism/Notes/State List.md",
-    "SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md",
     "SB's Notes/Social/Politics/Power Sharing/Power Sharing.canvas",
     "Vishnu's Notes/Social Science/Geography/Resource and Development.canvas",
     "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
-    "Vishnu's Notes/Social Science/Civics/Power Sharing.canvas",
-    "Vishnu's Notes/Science/Chemistry/Chemical Reactions and Equations.canvas",
-    "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "Chemistry/Chemical Reactions And Equations/Notes/Catalyst.md",
     "Media/Universal Indicator.png",
@@ -162,10 +279,7 @@
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Ethnic Compostion..md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
-    "SB's Notes/Social/Politics/Federalism/Notes/What is it.md",
-    "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Corrosion.md",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/SST/Politics/Power Sharing/Notes/SriLanka Map.png",

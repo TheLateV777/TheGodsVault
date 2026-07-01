@@ -1,0 +1,13 @@
+- Restructuring the Centre-State relations is one more way in which federalism has been strengthened in practice. 
+- How the constitutional arrangements for sharing power work in reality depends to a large extent on how the ruling parties and leaders follow these arrangements.
+- For a long time, the same party ruled both at the Centre and in most of the States.
+- This meant that the State Governments did not exercise their rights as autonomous federal units.
+- As and when the ruling party at the State level was different, the parties that ruled at the Centre tried to undermine the power of the States.
+- In those days, the Central Government would often misuse the Constitution to dismiss the State Governments that were controlled by rival parties.
+- This undermined the spirit of federalism.
+- All this changed significantly after 1990. This period saw the rise of regional political parties in many States of the country.
+- This was also the beginning of the era of coalition governments at the Centre.
+- Since no single party got a clear majority in the Lok Sabha, the major national parties had to enter into an alliance with many parties including several regional parties to form a government at the Centre.
+- This led to a new culture of power sharing and respect for the autonomy of State Governments.
+- This trend was supported by a major judgement of the Supreme Court that made it difficult for the central Government to dismiss state governments in an arbitrary manner.
+- Thus, federal power sharing is more effective today than it was in the early years after the Constitution came into force.
