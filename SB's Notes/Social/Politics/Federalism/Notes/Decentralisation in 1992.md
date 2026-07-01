@@ -1,0 +1,6 @@
+- Now it is constitutionally mandatory to hold regular elections to local government bodies.
+- Seats are reserved in the elected bodies and the executive heads of these institutions for the Scheduled Castes, Scheduled Tribes and Other Backward Classes.
+- At least one-third of all positions are reserved for women.
+- An independent institution called the State Election Commission has been created in each State to conduct panchayat and municipal elections.
+- The State governments are required to share some powers and revenue with local government bodies.
+- The nature of sharing varies from State to State.

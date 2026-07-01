@@ -14,8 +14,6 @@
 		{"id":"ca0a3801da078308","type":"text","text":"First One involving independent states coming together on their own to form a bigger unit, so tht pooling sovereignty and retaining identity can increase security. Ex:- USA, Switzerland, and Australia.  COMING TOGETHER FEDERATION.","x":260,"y":282,"width":345,"height":160,"color":"3"},
 		{"id":"c66aaf8c13e51e4c","type":"text","text":"India","x":-680,"y":155,"width":108,"height":50},
 		{"id":"b00a50519a0ef134","type":"text","text":"The second one is whr a large country decides to divide its power between the constituent States and the national govt. India, Spain, Belgium.. ARE HOLDING TOGETHER FEDERATION.","x":880,"y":300,"width":340,"height":140,"color":"3"},
-		{"id":"650a7ed007f46a08","type":"text","text":"How is Federalism Practiced?","x":-1543,"y":800,"width":250,"height":60},
-		{"id":"d0be39a640483722","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md","x":-1743,"y":1060,"width":400,"height":400},
 		{"id":"1e40b7514bdaad23","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/What Makes India a federal country.md","x":-519,"y":880,"width":530,"height":380},
 		{"id":"59e4bceecf65fabf","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union List.md","x":400,"y":700,"width":380,"height":271},
 		{"id":"bddcc4f20091d3e1","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/State List.md","x":400,"y":1015,"width":380,"height":245},
@@ -23,7 +21,19 @@
 		{"id":"47364a844c14f079","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md","x":392,"y":1600,"width":400,"height":400},
 		{"id":"a4cbaace5dec46ed","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md","x":392,"y":2060,"width":400,"height":400},
 		{"id":"848e181fad4b4a9b","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/States Enjoying Special Power..md","x":-540,"y":1823,"width":580,"height":437},
-		{"id":"54a406f6c59774bd","x":-2750,"y":520,"width":400,"height":400,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md"}
+		{"id":"54a406f6c59774bd","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md","x":-2750,"y":520,"width":400,"height":400},
+		{"id":"d0be39a640483722","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Linguistic States.md","x":-2380,"y":999,"width":400,"height":400},
+		{"id":"0dbe4d9967f4b1ed","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Language Policy.md","x":-2380,"y":1549,"width":400,"height":410},
+		{"id":"0602a396670a8d77","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Centre-State relations.md","x":-2380,"y":2039,"width":400,"height":400},
+		{"id":"3023a91e1583526e","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Linguistic diversity of India.md","x":-2380,"y":2600,"width":400,"height":400},
+		{"id":"650a7ed007f46a08","type":"text","text":"How is Federalism Practiced?","x":-1520,"y":1959,"width":250,"height":60},
+		{"id":"d1d7eaab10fb55d0","type":"text","text":"Decentralisation in India","x":-1040,"y":2439,"width":250,"height":60},
+		{"id":"ce7801a99f38f408","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/More About 3rd tier of Govt..md","x":-1780,"y":3600,"width":760,"height":780},
+		{"id":"4764054b58716553","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Decentralisation in India.md","x":-450,"y":2820,"width":400,"height":400},
+		{"id":"5c3a0cd11b3bf5a5","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Decentralisation in 1992.md","x":-1040,"y":3200,"width":400,"height":440},
+		{"id":"03130bbd71963996","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/What is Decentralisation.md","x":-1800,"y":3080,"width":400,"height":400},
+		{"id":"cdc59181649fa357","type":"text","text":"Federal power sharing in India needs another tier of government, below that of the State governments. This is the rationale for decentralisation of power. Thus, resulted a third- tier of government, called local government","x":-1674,"y":2631,"width":308,"height":189},
+		{"id":"325ce09ec3dd052d","x":-707,"y":3920,"width":915,"height":800,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/An experiment in Brazil.md"}
 	],
 	"edges":[
 		{"id":"738916f5df9a12b1","fromNode":"e0ae7f5337e56de0","fromSide":"top","toNode":"cb48b44d5b82d0d8","toSide":"bottom"},
@@ -41,8 +51,8 @@
 		{"id":"d81a16e368e7738d","fromNode":"e0ae7f5337e56de0","fromSide":"bottom","toNode":"c66aaf8c13e51e4c","toSide":"top"},
 		{"id":"2657068c57c67ba5","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"848e181fad4b4a9b","toSide":"left"},
 		{"id":"8a2401252e405ca2","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"1e40b7514bdaad23","toSide":"left"},
-		{"id":"7f603b66ecff0e42","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"650a7ed007f46a08","toSide":"left"},
-		{"id":"626e4263c95a2f4e","fromNode":"650a7ed007f46a08","fromSide":"bottom","toNode":"d0be39a640483722","toSide":"top"},
+		{"id":"7f603b66ecff0e42","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"650a7ed007f46a08","toSide":"top"},
+		{"id":"626e4263c95a2f4e","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"d0be39a640483722","toSide":"right","label":"Linguistic States"},
 		{"id":"80b1c191baf7a4ca","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"bddcc4f20091d3e1","toSide":"left","label":" State List"},
 		{"id":"55a3bb3228010abe","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"59e4bceecf65fabf","toSide":"left","label":"Union List"},
 		{"id":"de85ef18d3fba144","fromNode":"1e40b7514bdaad23","fromSide":"right","toNode":"ff7ac5364ceaac4b","toSide":"left","label":"Concurrent List"},
@@ -54,6 +64,16 @@
 		{"id":"372657eb3ce71667","fromNode":"89e94c0aa8d9e734","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
 		{"id":"4eda37c39678cbc5","fromNode":"475d7583b0ac74df","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
 		{"id":"69b091bc8c11edad","fromNode":"d72fc8913adce662","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"left"},
-		{"id":"2fb3288ba72c60b9","fromNode":"b29c9c3b574325bc","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"}
+		{"id":"2fb3288ba72c60b9","fromNode":"b29c9c3b574325bc","fromSide":"bottom","toNode":"54a406f6c59774bd","toSide":"right"},
+		{"id":"24927eba9da23541","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"0dbe4d9967f4b1ed","toSide":"right","label":"Language Policy"},
+		{"id":"14515db832e3fd66","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"0602a396670a8d77","toSide":"right","label":"Centre-State relations"},
+		{"id":"b6a4667c91dd2638","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"3023a91e1583526e","toSide":"right","label":"Linguistic diversity of India"},
+		{"id":"ca9a7007898207b4","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"d1d7eaab10fb55d0","toSide":"top"},
+		{"id":"c7871df80f19dd45","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"cdc59181649fa357","toSide":"top"},
+		{"id":"e32c02705e161b2e","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"03130bbd71963996","toSide":"top"},
+		{"id":"3b73ac2f45a8c9ac","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"4764054b58716553","toSide":"top"},
+		{"id":"d3b1b40918321f5c","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"5c3a0cd11b3bf5a5","toSide":"top"},
+		{"id":"e3d13f4d681924d3","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"ce7801a99f38f408","toSide":"top"},
+		{"id":"b86856a8cdd19245","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"325ce09ec3dd052d","toSide":"top"}
 	]
 }

@@ -1,0 +1,19 @@
+- Rural local government is popularly known by the name Panchayati raj.
+- Each village, or a group of villages in some States, has a gram panchayat.
+- This is a council consisting of several ward members, often called panch, and a president or sarpanch.
+- They are directly elected by all the adult population living in that ward or village.
+- It is the decision-making body for the entire village.
+- The panchayat works under the overall supervision of the gram Sabha.
+- All the voters in the village are its members. It has to meet at least twice or thrice in a year to approve the annual budget of the gram panchayat and to review the performance of the gram panchayat.
+- The local government structure goes right up to the district level.
+- A few gram panchayats are grouped together to form what is usually called a panchayat samiti or block or Mandal.
+- The members of this representative body are elected by all the panchayat members in that area.
+- All the panchayat samitis or Mandals in a district together constitute the zilla (district) parishad.
+- Most members of the zilla parishad are elected.
+- Members of the Lok Sabha and MLAs of that district and some other officials of other district level bodies are also its members. 
+- Zilla parishad chairperson is the political head of the zilla parishad.
+- Similarly, local government bodies exist for urban areas as well.
+- Municipalities are set up in towns. Big cities are constituted into municipal corporations.
+- Both municipalities and municipal corporations  are controlled by elected bodies consisting of people’s representatives.
+- Municipal chairperson is the political head of the municipality.
+- In a municipal corporation, such an officer is called the mayor.

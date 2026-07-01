@@ -1,0 +1,14 @@
+- A second test for Indian federation is the language policy. Our Constitution did not give the status of national language to any one language.
+- Hindi was identified as the official language.
+- But Hindi is the mother tongue of only about 40 per cent of Indians.
+- Therefore, there were many safeguards to protect other languages.
+- Besides Hindi, there are 21 other languages recognised as Scheduled Languages by the Constitution.
+- A candidate in an examination conducted for the Central Government positions may opt to take the examination in any of these languages.
+- States too have their own official languages.
+- Much of the government work takes place in the official language of the concerned State.
+- Unlike Sri Lanka, the leaders of our country adopted a very cautious attitude in spreading the use of Hindi.
+- According to the Constitution, the use of English for official purposes was to stop in 1965.
+- However, many non-Hindi speaking States demanded that the use of English continue. In Tamil Nadu, this movement took a violent form.
+- The Central Government responded by agreeing to continue the use of English along with Hindi for official purposes. Many critics think that this solution favoured the English-speaking elite.
+- Promotion of Hindi continues to be the official policy of the Government of India.
+- Promotion does not mean that the Central Government can impose Hindi on States where people speak a different language. The flexibility shown by Indian political leaders helped our country avoid the kind of situation that Sri Lanka finds itself in.

@@ -1,0 +1,12 @@
+- The latest information that we have is from the Census of India held in 2011.
+- This census recorded more than 1300 distinct languages which people mentioned as their mother tongues.
+- These languages were grouped together under some major languages.
+- For example, languages like Bhojpuri, Magadhi, Bundelkhandi, Chhattisgarhi, Rajasthani and many others were grouped together under ‘Hindi’.
+- Even after this grouping, the Census found 121 major languages.
+- Of these, 22 languages are now included in the Eighth Schedule of the Indian Constitution and are therefore called ‘Scheduled Languages’.
+- Others are called ‘non-Scheduled Languages’. In terms of languages, India is perhaps the most diverse country in the world.
+- A look at the enclosed table makes it clear that no one language is the mother tongue of the majority of our population.
+- The largest language, Hindi, is the mother tongue of only about 44 per cent Indians.
+- If we add to that all those who knew Hindi as their second or third language, the total number was still less than 50 per cent in 2011.
+- As for English, only 0.02 per cent Indians recorded it as their mother tongue.
+- Another 11 per cent knew it as a second or third language.
