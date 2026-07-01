@@ -1,0 +1,7 @@
+- When power is taken away from Central and State governments and given to local government, it is called decentralisation.
+- The basic idea behind decentralisation is that there are a large number of problems and issues which are best settled at the local level.
+- People have better knowledge of problems in their localities.
+- They also have better ideas on where to spend money and how to manage things more efficiently.
+- Besides, at the local level it is possible for the people to directly participate in decision making.
+- This helps to inculcate a habit of democratic participation.
+- Local government is the best way to realise one important principle of democracy, namely local self-government.

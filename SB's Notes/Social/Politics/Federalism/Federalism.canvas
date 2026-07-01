@@ -27,7 +27,13 @@
 		{"id":"0602a396670a8d77","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Centre-State relations.md","x":-2380,"y":2039,"width":400,"height":400},
 		{"id":"3023a91e1583526e","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Linguistic diversity of India.md","x":-2380,"y":2600,"width":400,"height":400},
 		{"id":"650a7ed007f46a08","type":"text","text":"How is Federalism Practiced?","x":-1520,"y":1959,"width":250,"height":60},
-		{"id":"d1d7eaab10fb55d0","x":-1040,"y":2439,"width":250,"height":60,"type":"text","text":"Decentralisation in India"}
+		{"id":"d1d7eaab10fb55d0","type":"text","text":"Decentralisation in India","x":-1040,"y":2439,"width":250,"height":60},
+		{"id":"ce7801a99f38f408","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/More About 3rd tier of Govt..md","x":-1780,"y":3600,"width":760,"height":780},
+		{"id":"4764054b58716553","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Decentralisation in India.md","x":-450,"y":2820,"width":400,"height":400},
+		{"id":"5c3a0cd11b3bf5a5","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/Decentralisation in 1992.md","x":-1040,"y":3200,"width":400,"height":440},
+		{"id":"03130bbd71963996","type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/What is Decentralisation.md","x":-1800,"y":3080,"width":400,"height":400},
+		{"id":"cdc59181649fa357","type":"text","text":"Federal power sharing in India needs another tier of government, below that of the State governments. This is the rationale for decentralisation of power. Thus, resulted a third- tier of government, called local government","x":-1674,"y":2631,"width":308,"height":189},
+		{"id":"325ce09ec3dd052d","x":-707,"y":3920,"width":915,"height":800,"type":"file","file":"SB's Notes/Social/Politics/Federalism/Notes/An experiment in Brazil.md"}
 	],
 	"edges":[
 		{"id":"738916f5df9a12b1","fromNode":"e0ae7f5337e56de0","fromSide":"top","toNode":"cb48b44d5b82d0d8","toSide":"bottom"},
@@ -62,6 +68,12 @@
 		{"id":"24927eba9da23541","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"0dbe4d9967f4b1ed","toSide":"right","label":"Language Policy"},
 		{"id":"14515db832e3fd66","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"0602a396670a8d77","toSide":"right","label":"Centre-State relations"},
 		{"id":"b6a4667c91dd2638","fromNode":"650a7ed007f46a08","fromSide":"left","toNode":"3023a91e1583526e","toSide":"right","label":"Linguistic diversity of India"},
-		{"id":"ca9a7007898207b4","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"d1d7eaab10fb55d0","toSide":"top"}
+		{"id":"ca9a7007898207b4","fromNode":"c66aaf8c13e51e4c","fromSide":"bottom","toNode":"d1d7eaab10fb55d0","toSide":"top"},
+		{"id":"c7871df80f19dd45","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"cdc59181649fa357","toSide":"top"},
+		{"id":"e32c02705e161b2e","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"03130bbd71963996","toSide":"top"},
+		{"id":"3b73ac2f45a8c9ac","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"4764054b58716553","toSide":"top"},
+		{"id":"d3b1b40918321f5c","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"5c3a0cd11b3bf5a5","toSide":"top"},
+		{"id":"e3d13f4d681924d3","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"ce7801a99f38f408","toSide":"top"},
+		{"id":"b86856a8cdd19245","fromNode":"d1d7eaab10fb55d0","fromSide":"bottom","toNode":"325ce09ec3dd052d","toSide":"top"}
 	]
 }

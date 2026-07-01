@@ -1,0 +1,7 @@
+- The need for decentralisation was recognised in our Constitution.
+- Since then, there have been several attempts to decentralise power to the level of villages and towns.
+- Panchayats in villages and municipalities in urban areas were set up in all the States.
+- But these were directly under the control of state governments.
+- Elections to these local governments were not held regularly.
+- Local governments did not have any powers or resources of their own. Thus, there was very little decentralisation in effective terms.
+- A major step towards decentralisation was taken in 1992. The Constitution was amended to make the third-tier of democracy more powerful and effective.
