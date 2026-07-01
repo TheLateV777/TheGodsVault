@@ -29,8 +29,8 @@
               "state": {
                 "file": "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
                 "viewState": {
-                  "x": -794.8496843678122,
-                  "y": -341.9471371899738,
+                  "x": -885.6711273936861,
+                  "y": -429.03619214629117,
                   "zoom": -0.31513649536079663
                 }
               },
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -242,17 +243,18 @@
         "y": 427,
         "width": 718,
         "height": 576,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "5ab8c05f469d88aa",
   "lastOpenFiles": [
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "PDFs/Nationalism in Europe.pdf",
-    "Readme.md",
+    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "Goals.md",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
+    "Readme.md",
     "Untitled.md",
     "BREAKING NEWS.md",
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
@@ -282,7 +284,6 @@
     "Vishnu's Notes/Science/Chemistry/Acids, Bases and Salts.canvas",
     "Excalidraw",
     "Vishnu's Notes/Social Science/Economics/Sectors of Indian Economy.canvas",
-    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "SB's Notes/Social/Politics/Federalism/Notes",
     "Vishnu's Notes/Social Science/Civics",
     "Vishnu's Notes/Social Science/History",
