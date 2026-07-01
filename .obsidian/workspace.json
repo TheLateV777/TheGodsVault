@@ -15,8 +15,8 @@
               "state": {
                 "file": "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
                 "viewState": {
-                  "x": -1762.0351016200063,
-                  "y": 1737.093855308077,
+                  "x": -1720.1439165698234,
+                  "y": 1854.5338633969543,
                   "zoom": -1.574896190483483
                 }
               },
@@ -139,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Federalism.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Federalism"
+              "title": "Backlinks"
             }
           },
           {
@@ -158,12 +157,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Federalism.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Federalism"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Federalism.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Federalism"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -229,10 +227,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cc81291fc820b706",
+  "active": "74c67f6ca01fa207",
   "lastOpenFiles": [
-    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
+    "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
+    "Excalidraw",
     "PDFs/Federalism.pdf",
+    "conflict-files-obsidian-git.md",
+    "BREAKING NEWS.md",
+    "SB's Notes/Social/Politics/Federalism/Federalism.canvas",
     "SB's Notes/Social/Politics/Federalism/Notes/Linguistic diversity of India.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Centre-State relations.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Language Policy.md",
@@ -249,13 +251,10 @@
     "PDFs/Control and Coordination.pdf",
     "PDFs/Life Processes.pdf",
     "PDFs/Metals and Non-Metals.pdf",
-    "PDFs/Acids, Base, Salts.pdf",
     "SB's Notes/Social/Social Overall.canvas",
     "Hello Nihal.md",
     "Readme.md",
     "2026-06-28.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
     "SB's Notes/Social/Politics/Federalism/Notes/FEATURES OF FEDRALISM.md",
     "SB's Notes/SCIENCE/Chemistry/Chemical Reactions And Equations/Notes/Reactivity Series.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
@@ -278,7 +277,6 @@
     "SB's Notes/Social/Politics/Power Sharing/Notes/The Problem Arises in Belgium.md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Language policy.md",
-    "SB's Notes/Social/Politics/Power Sharing/Notes/Ethnic Compostion..md",
     "SB's Notes/Social/Politics/Power Sharing/Notes/Belgium Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/SriLanka Map.png",
     "SB's Notes/SST/Politics/Power Sharing/Notes/Belgium Map.png",
