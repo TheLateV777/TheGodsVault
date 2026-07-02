@@ -25,17 +25,14 @@
             "id": "5ab8c05f469d88aa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-                "viewState": {
-                  "x": -83.3307875922672,
-                  "y": 4098.577600330954,
-                  "zoom": -0.8763127432175866
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Nationalism in Europe"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -195,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +246,11 @@
   },
   "active": "5ab8c05f469d88aa",
   "lastOpenFiles": [
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "Goals.md",
     "Readme.md",
     "Media/Germania.png",
     "Quick Access.base",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "PDFs/Nationalism in Europe.pdf",
     "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "SB's Notes/Social/Politics/Federalism/Notes/What is Decentralisation.md",
