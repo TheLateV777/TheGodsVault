@@ -11,14 +11,13 @@
             "id": "b6bcfac01850e6e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Quick Access.base",
+                "viewName": "Cards"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-layout-grid",
+              "title": "Quick Access"
             }
           }
         ]
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quick Access.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Quick Access"
             }
           },
           {
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quick Access.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Quick Access"
             }
           },
           {
@@ -231,13 +232,14 @@
   },
   "active": "6286c0aa711d14fb",
   "lastOpenFiles": [
-    "2026-06-28.md",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-    "Goals.md",
     "Readme.md",
-    "Media/Germania.png",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
     "Quick Access.base",
+    "BREAKING NEWS.md",
+    "Goals.md",
     "PDFs/Nationalism in Europe.pdf",
+    "2026-06-28.md",
+    "Media/Germania.png",
     "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "SB's Notes/Social/Politics/Federalism/Notes/What is Decentralisation.md",
     "SB's Notes/Social/Politics/Federalism/Notes/More About 3rd tier of Govt..md",
@@ -257,7 +259,6 @@
     "PDFs/Acids, Base, Salts.pdf",
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
     "Untitled.md",
-    "BREAKING NEWS.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union List.md",
     "SB's Notes/Social/Politics/Federalism/Notes/States with special privileges.md",
