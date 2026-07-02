@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
+                "file": "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
                 "viewState": {
-                  "x": -885.6711273936861,
-                  "y": -429.03619214629117,
-                  "zoom": -0.31513649536079663
+                  "x": -83.3307875922672,
+                  "y": 4098.577600330954,
+                  "zoom": -0.8763127432175866
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Forest and Wildlife Resources"
+              "title": "Nationalism in Europe"
             }
           }
         ],
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "7606b18731ee70ed",
@@ -216,15 +215,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "8421a88bb9cb8e5a",
+        "id": "9037b9722c2c01a7",
         "type": "window",
         "children": [
           {
-            "id": "642bf9092eb1ad94",
+            "id": "25a5dd5165d2c8d4",
             "type": "tabs",
             "children": [
               {
-                "id": "7913e8e95bb50af0",
+                "id": "83ba11ced1559723",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -239,18 +238,24 @@
           }
         ],
         "direction": "vertical",
-        "x": 2036,
-        "y": 425,
+        "x": -1029,
+        "y": 28,
         "width": 1024,
-        "height": 803,
-        "maximize": false,
+        "height": 800,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "6286c0aa711d14fb",
+  "active": "5ab8c05f469d88aa",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Goals.md",
+    "Readme.md",
+    "Media/Germania.png",
+    "Quick Access.base",
+    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
+    "PDFs/Nationalism in Europe.pdf",
+    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
     "SB's Notes/Social/Politics/Federalism/Notes/What is Decentralisation.md",
     "SB's Notes/Social/Politics/Federalism/Notes/More About 3rd tier of Govt..md",
     "SB's Notes/Social/Politics/Federalism/Notes/Linguistic diversity of India.md",
@@ -268,13 +273,7 @@
     "PDFs/Chemical Reactions and Equations.pdf",
     "PDFs/Acids, Base, Salts.pdf",
     "Excalidraw/Drawing 2026-06-28 16.57.38.excalidraw.md",
-    "Excalidraw",
     "2026-06-28.md",
-    "PDFs/Nationalism in Europe.pdf",
-    "Vishnu's Notes/Social Science/Geography/Forest and Wildlife Resources.canvas",
-    "Goals.md",
-    "Vishnu's Notes/Social Science/History/Nationalism in Europe.canvas",
-    "Readme.md",
     "Untitled.md",
     "BREAKING NEWS.md",
     "SB's Notes/Social/Politics/Federalism/Notes/Union Territories.md",
